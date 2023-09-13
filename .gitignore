@@ -1,0 +1,10 @@
+/node_modules
+
+.npm
+
+.env
+
+.DS_Store
+.tool-versions
+
+*.xml
