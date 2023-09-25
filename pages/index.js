@@ -1,7 +1,7 @@
 
 function Home() {
   return (
-    <h1>Olá React</h1>
+    <h1>Clone tabnews</h1>
   )
 }
 
